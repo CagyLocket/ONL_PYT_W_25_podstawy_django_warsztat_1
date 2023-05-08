@@ -5,3 +5,7 @@ future~=0.18.2
 platformdirs~=3.5.0asgiref==3.6.0
 Django==4.2.1
 sqlparse==0.4.4
+asgiref==3.6.0
+Django==4.2.1
+psycopg2-binary==2.9.6
+sqlparse==0.4.4
